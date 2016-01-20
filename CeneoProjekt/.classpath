@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.osgi_3.10.101.v20150820-1432.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.osgi_3.10.101.v20150820-1432.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.104.1.v20150825-0743.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.104.1.v20150825-0743.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface_3.11.0.v20150602-1400.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface_3.11.0.v20150602-1400.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface.text_3.10.0.v20150603-1752.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface.text_3.10.0.v20150603-1752.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding_1.5.0.v20150422-0725.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding_1.5.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.beans_1.3.0.v20150422-0725.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.beans_1.3.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.observable_1.5.0.v20150422-0725.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.observable_1.5.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.property_1.5.0.v20150422-0725.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.core.databinding.property_1.5.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface.databinding_1.7.0.v20150406-2148.jar" sourcepath="E:/Programy/eclipse-jee-mars/eclipse/plugins/org.eclipse.jface.databinding_1.7.0.v20150406-2148.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-api-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-firefox-driver-2.48.2.jar" sourcepath="C:/Users/Jack/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.48.2/selenium-firefox-driver-2.48.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-htmlunit-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-ie-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-leg-rc-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-remote-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-support-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-chrome-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-edge-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/selenium-server-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jetty-rc-repacked-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jetty-repacked-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/apache/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jsf-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jsf-impl-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/workspace/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
